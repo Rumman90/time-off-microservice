@@ -628,6 +628,17 @@ Coverage:
 ```bash
 npm run test:e2e:coverage
 ```
+
+Latest verified result:
+
+```txt
+Test Suites: 11 passed, 11 total
+Tests:       23 passed, 23 total
+Statements:  94.33%
+Branches:    63.21%
+Functions:   92.10%
+Lines:        93.71%
+```
 ---
 
 # Production Notes
