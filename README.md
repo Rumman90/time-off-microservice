@@ -674,3 +674,9 @@ SSE realtime updates
 audit logging
 API Gateway integration considerations
 ```
+
+---
+
+# License
+
+This project is licensed under the MIT License. See [LICENSE](./LICENSE) for details.
