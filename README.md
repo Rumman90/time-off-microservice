@@ -653,13 +653,13 @@ API Gateway should forward correlation IDs.
 API Gateway should not aggressively timeout SSE streams.
 ```
 
-The assessment keeps SSE inside the Time-Off Microservice and documents API Gateway as production infrastructure.
+This project keeps SSE inside the Time-Off Microservice and documents API Gateway as production infrastructure.
 
 ---
 
 # Notes
 
-This assessment is implemented using TypeScript, NestJS, TypeORM, SQLite, asynchronous outbox processing, and Server-Sent Events (SSE).
+This service is implemented using TypeScript, NestJS, TypeORM, SQLite, asynchronous outbox processing, and Server-Sent Events (SSE).
 
 The architecture focuses on production-oriented backend patterns including:
 

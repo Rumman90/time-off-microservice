@@ -98,7 +98,6 @@ clean TypeScript integration
 SQLite was selected because:
 
 ```txt
-assessment requirement
 lightweight setup
 easy local execution
 minimal infrastructure dependency
@@ -290,7 +289,7 @@ easy operational observability
 
 ## 5.5 SQLite vs Production Database
 
-SQLite is used because it is required for the assessment and keeps local setup simple.
+SQLite is used to keep local setup simple and minimize infrastructure requirements during development.
 
 Production alternative:
 
